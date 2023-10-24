@@ -16,6 +16,7 @@ Tạo tập tin Configuration XML để cài đặt Office qua ODT
 4. Chọn cài hoặc không cài thêm Project / Visio
 
 ![image](https://github.com/NDWoodCompany/OfficeDeploy/assets/102244520/7eac14e2-11ce-4c84-8e7f-1c24714bbf94)
+
   4.1. Chọn Project Pro hoặc Std
   4.2. Chọn Visio Pro hoặc Std
 
